@@ -1,6 +1,6 @@
 # Counting Triangeles in Random Graphs
 
-In a random graph $G(n, p)$ where $p = 1$. We want to count the number of triangles.
+In a random graph $G(n, p)$ where $p = d/n$ ($d$ is a constant). We want to count the number of triangles.
 
 This can be sped up by more than 80x by means of *systems* and *mathematics/algorithms*.
 
